@@ -1,6 +1,6 @@
 # Image cipher
 Image cipher is a command line tool developed in Python which able to cipher
-images using AES-ECB or AES-CBC. It aims at providing a pedagogical tool for
+images using AES-ECB or AES-CBC. It aims at providing an educative tool for
 understanding the differences between modes in symmetric cryptography.
 
 ## Requirements
